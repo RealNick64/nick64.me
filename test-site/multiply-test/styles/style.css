@@ -1,0 +1,13 @@
+th {
+	background-color: #FFFFFF;
+	font-size: 1em;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 200);
+}
+
+.imgDiv {
+  margin: 10px 10px 10px;
+}
