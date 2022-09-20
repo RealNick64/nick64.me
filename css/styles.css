@@ -25,3 +25,17 @@ h1 {
 	margin: auto;
 	border: 5px solid rgb(242,131,22);
 }
+
+@media screen and (max-width: 600px) {
+    body {
+        font-size: x-large;
+    }
+    header, #topTable {
+        font-size: large;
+    }
+    div {
+        margin-top: 5px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
