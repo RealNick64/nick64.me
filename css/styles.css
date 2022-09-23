@@ -1,3 +1,7 @@
+body {
+	background-image: url("WALL001.GIF");
+}
+
 h1 {
 	color: white;
 	text-align: center;
@@ -6,21 +10,22 @@ h1 {
 	border: 5px solid gray;
 }
 
-.quote {
+.textbox {
 	text-align:center;
 	width: 200px;
 	padding: 2px;
-	border: 5px solid gray;
+	border: 3px solid gray;
 	margin: auto;
 	background-color: white;
 }
 
 #tableLeft {
-	border: 5px solid gray;
+	border: 3px solid gray;
 }
 
 
 #centerPic {
+	border: 3px solid gray;
 	display: block;
 	margin: auto;
 }
@@ -28,7 +33,7 @@ h1 {
 #topTable {
 	vertical-align: top;
 	margin: auto;
-	border: 5px solid gray;
+	border: 3px solid gray;
 }
 
 @media screen and (max-width: 600px) {
