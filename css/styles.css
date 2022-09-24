@@ -1,5 +1,10 @@
 body {
+	color: white;
 	background-image: url("WALL001.GIF");
+}
+
+a:link, a:visited {
+	color: white;
 }
 
 h1 {
@@ -16,12 +21,20 @@ h1 {
 	padding: 2px;
 	border: 3px solid gray;
 	margin: auto;
-	background-color: white;
+	color: white;
+	background-color: black;
 }
 
 .wider {
 	width: 600px;
 	/* text-align: left; */
+}
+
+.postHeader {
+	padding: 2px;
+	border: 3px solid gray;
+	width: 600px;
+	background-color: black;
 }
 
 .infoBanner {
@@ -35,7 +48,7 @@ h1 {
 }
 
 #sectionHeader {
-	background-color: gray;
+	background-color: black;;
 	text-align: center;
 }
 
@@ -49,13 +62,15 @@ h1 {
 	vertical-align: top;
 	margin: auto;
 	border: 3px solid gray;
+	background-color: black;
 }
 
 #blogText {
-	background-color: white;
+	color: white;
 	text-align: left;
 	border: 3px solid gray;
 	padding: 10px;
+	background-color: black;
 }
 
 /* Mobile support */
@@ -85,22 +100,5 @@ h1 {
 	}
 }
 
-/* Dark mode support */
-@media (prefers-color-scheme: dark) {
-	/* should fix nearly everything */
-	body * {
-		color: white;
-		/* if your browser is modern enough to apply this media query, why not use hex colors? ;) */
-		background-color: black;
-	}
-	/* unbreak the background of the content area by hiding it again */
-	body > center {
-		background-color: transparent;
-	}
-	/* fix the rest */
-	#blogText,
-	.textbox,
-	#sectionHeader {
-		background-color: black;
-	}
+
 }
