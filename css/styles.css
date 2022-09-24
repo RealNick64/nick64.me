@@ -11,12 +11,23 @@ h1 {
 }
 
 .textbox {
-	text-align:center;
+	text-align: center;
 	width: 200px;
 	padding: 2px;
 	border: 3px solid gray;
 	margin: auto;
 	background-color: white;
+}
+
+.wider {
+	width: 600px;
+	/* text-align: left; */
+}
+
+.infoBanner {
+	text-align: center;
+	color: white;
+	background-color: gray;
 }
 
 #tableLeft {
@@ -47,16 +58,49 @@ h1 {
 	padding: 10px;
 }
 
+/* Mobile support */
 @media screen and (max-width: 600px) {
-    body {
-        font-size: x-large;
-    }
-    header, #topTable {
-        font-size: large;
-    }
-    div {
-        margin-top: 5px;
-        margin-left: auto;
-        margin-right: auto;
-    }
+	body {
+		font-size: x-large;
+	}
+	header,
+	#topTable {
+		font-size: large;
+	}
+	div {
+		margin-top: 5px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+/* Modern desktop support */
+@media screen and (min-width: 1024px) {
+	body {
+		font-size: large;
+	}
+	#blogText {
+		/* ch is a CSS measurement unit, for characters. This limits the width of article texts to 65 characters long. */
+		max-width: 65ch;
+	}
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+	/* should fix nearly everything */
+	body * {
+		color: white;
+		/* if your browser is modern enough to apply this media query, why not use hex colors? ;) */
+		background-color: black;
+	}
+	/* unbreak the background of the content area by hiding it again */
+	body > center {
+		background-color: transparent;
+	}
+	/* fix the rest */
+	#blogText,
+	.textbox,
+	#sectionHeader {
+		background-color: black;
+	}
 }
