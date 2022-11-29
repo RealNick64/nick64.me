@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arts on Nick64</title>
+    <link>http://nick64.me/art/</link>
+    <description>Recent content in Arts on Nick64</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Nov 2022 00:34:37 -0700</lastBuildDate><atom:link href="http://nick64.me/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sex Album</title>
+      <link>http://nick64.me/art/sex-album/</link>
+      <pubDate>Sun, 27 Nov 2022 00:34:37 -0700</pubDate>
+      
+      <guid>http://nick64.me/art/sex-album/</guid>
+      <description>(Posted on Twitter on October 16th, 2022) </description>
+    </item>
+    
+  </channel>
+</rss>
