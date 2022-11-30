@@ -6,13 +6,49 @@
     <description>Recent content in Tags on Nick64</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Nov 2022 21:16:18 -0700</lastBuildDate><atom:link href="http://nick64.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2022 23:05:29 -0700</lastBuildDate><atom:link href="http://nick64.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gaming</title>
+      <link>http://nick64.me/tags/gaming/</link>
+      <pubDate>Tue, 29 Nov 2022 23:05:29 -0700</pubDate>
+      
+      <guid>http://nick64.me/tags/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>http://nick64.me/tags/hardware/</link>
+      <pubDate>Tue, 29 Nov 2022 23:05:29 -0700</pubDate>
+      
+      <guid>http://nick64.me/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidbits</title>
+      <link>http://nick64.me/tags/tidbits/</link>
+      <pubDate>Tue, 29 Nov 2022 23:05:29 -0700</pubDate>
+      
+      <guid>http://nick64.me/tags/tidbits/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>news</title>
       <link>http://nick64.me/tags/news/</link>
-      <pubDate>Mon, 28 Nov 2022 21:16:18 -0700</pubDate>
+      <pubDate>Tue, 29 Nov 2022 15:54:23 -0700</pubDate>
       
       <guid>http://nick64.me/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rant</title>
+      <link>http://nick64.me/tags/rant/</link>
+      <pubDate>Tue, 29 Nov 2022 15:54:23 -0700</pubDate>
+      
+      <guid>http://nick64.me/tags/rant/</guid>
       <description></description>
     </item>
     
@@ -22,15 +58,6 @@
       <pubDate>Mon, 28 Nov 2022 21:16:18 -0700</pubDate>
       
       <guid>http://nick64.me/tags/random/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rant</title>
-      <link>http://nick64.me/tags/rant/</link>
-      <pubDate>Sun, 27 Nov 2022 21:18:30 -0700</pubDate>
-      
-      <guid>http://nick64.me/tags/rant/</guid>
       <description></description>
     </item>
     
