@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Nick64</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Nov 2022 23:05:29 -0700</lastBuildDate><atom:link href="http://nick64.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 22:42:43 -0700</lastBuildDate><atom:link href="http://nick64.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>anime</title>
+      <link>http://nick64.me/tags/anime/</link>
+      <pubDate>Wed, 30 Nov 2022 22:42:43 -0700</pubDate>
+      
+      <guid>http://nick64.me/tags/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rant</title>
+      <link>http://nick64.me/tags/rant/</link>
+      <pubDate>Wed, 30 Nov 2022 22:42:43 -0700</pubDate>
+      
+      <guid>http://nick64.me/tags/rant/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>gaming</title>
       <link>http://nick64.me/tags/gaming/</link>
@@ -26,29 +44,11 @@
     </item>
     
     <item>
-      <title>tidbits</title>
-      <link>http://nick64.me/tags/tidbits/</link>
-      <pubDate>Tue, 29 Nov 2022 23:05:29 -0700</pubDate>
-      
-      <guid>http://nick64.me/tags/tidbits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>news</title>
       <link>http://nick64.me/tags/news/</link>
       <pubDate>Tue, 29 Nov 2022 15:54:23 -0700</pubDate>
       
       <guid>http://nick64.me/tags/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rant</title>
-      <link>http://nick64.me/tags/rant/</link>
-      <pubDate>Tue, 29 Nov 2022 15:54:23 -0700</pubDate>
-      
-      <guid>http://nick64.me/tags/rant/</guid>
       <description></description>
     </item>
     
