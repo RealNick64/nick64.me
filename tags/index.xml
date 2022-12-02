@@ -6,12 +6,15 @@
     <description>Recent content in Tags on Nick64</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>nick@nick64.me (Nick64)</managingEditor>
+    <webMaster>nick@nick64.me (Nick64)</webMaster>
+    <copyright>2022 Nick64 oh wait i dont care</copyright>
     <lastBuildDate>Wed, 30 Nov 2022 22:42:43 -0700</lastBuildDate><atom:link href="http://nick64.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>anime</title>
       <link>http://nick64.me/tags/anime/</link>
       <pubDate>Wed, 30 Nov 2022 22:42:43 -0700</pubDate>
-      
+      <author>nick@nick64.me (Nick64)</author>
       <guid>http://nick64.me/tags/anime/</guid>
       <description></description>
     </item>
@@ -20,7 +23,7 @@
       <title>rant</title>
       <link>http://nick64.me/tags/rant/</link>
       <pubDate>Wed, 30 Nov 2022 22:42:43 -0700</pubDate>
-      
+      <author>nick@nick64.me (Nick64)</author>
       <guid>http://nick64.me/tags/rant/</guid>
       <description></description>
     </item>
@@ -29,7 +32,7 @@
       <title>gaming</title>
       <link>http://nick64.me/tags/gaming/</link>
       <pubDate>Tue, 29 Nov 2022 23:05:29 -0700</pubDate>
-      
+      <author>nick@nick64.me (Nick64)</author>
       <guid>http://nick64.me/tags/gaming/</guid>
       <description></description>
     </item>
@@ -38,7 +41,7 @@
       <title>hardware</title>
       <link>http://nick64.me/tags/hardware/</link>
       <pubDate>Tue, 29 Nov 2022 23:05:29 -0700</pubDate>
-      
+      <author>nick@nick64.me (Nick64)</author>
       <guid>http://nick64.me/tags/hardware/</guid>
       <description></description>
     </item>
@@ -47,7 +50,7 @@
       <title>news</title>
       <link>http://nick64.me/tags/news/</link>
       <pubDate>Tue, 29 Nov 2022 15:54:23 -0700</pubDate>
-      
+      <author>nick@nick64.me (Nick64)</author>
       <guid>http://nick64.me/tags/news/</guid>
       <description></description>
     </item>
@@ -56,7 +59,7 @@
       <title>random</title>
       <link>http://nick64.me/tags/random/</link>
       <pubDate>Mon, 28 Nov 2022 21:16:18 -0700</pubDate>
-      
+      <author>nick@nick64.me (Nick64)</author>
       <guid>http://nick64.me/tags/random/</guid>
       <description></description>
     </item>
