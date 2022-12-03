@@ -9,11 +9,20 @@
     <managingEditor>nick@nick64.me (Nick64)</managingEditor>
     <webMaster>nick@nick64.me (Nick64)</webMaster>
     <copyright>2022 Nick64 oh wait i dont care</copyright>
-    <lastBuildDate>Fri, 02 Dec 2022 15:29:01 -0700</lastBuildDate><atom:link href="http://nick64.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 17:51:52 -0700</lastBuildDate><atom:link href="http://nick64.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>anime</title>
+      <link>http://nick64.me/tags/anime/</link>
+      <pubDate>Fri, 02 Dec 2022 17:51:52 -0700</pubDate>
+      <author>nick@nick64.me (Nick64)</author>
+      <guid>http://nick64.me/tags/anime/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>random</title>
       <link>http://nick64.me/tags/random/</link>
-      <pubDate>Fri, 02 Dec 2022 15:29:01 -0700</pubDate>
+      <pubDate>Fri, 02 Dec 2022 17:51:52 -0700</pubDate>
       <author>nick@nick64.me (Nick64)</author>
       <guid>http://nick64.me/tags/random/</guid>
       <description></description>
@@ -25,15 +34,6 @@
       <pubDate>Fri, 02 Dec 2022 15:29:01 -0700</pubDate>
       <author>nick@nick64.me (Nick64)</author>
       <guid>http://nick64.me/tags/rant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>anime</title>
-      <link>http://nick64.me/tags/anime/</link>
-      <pubDate>Wed, 30 Nov 2022 22:42:43 -0700</pubDate>
-      <author>nick@nick64.me (Nick64)</author>
-      <guid>http://nick64.me/tags/anime/</guid>
       <description></description>
     </item>
     
