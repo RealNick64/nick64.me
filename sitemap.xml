@@ -3,24 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nick64.me/categories/</loc>
-    <lastmod>2022-12-03T21:13:02-07:00</lastmod>
+    <lastmod>2022-12-04T20:33:31-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/diary/</loc>
-    <lastmod>2022-12-03T21:13:02-07:00</lastmod>
+    <lastmod>2022-12-04T20:33:31-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/</loc>
+    <lastmod>2022-12-04T20:33:31-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/diary/2022/12/not-really-feeling-it-today/</loc>
+    <lastmod>2022-12-04T20:33:31-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/tags/random/</loc>
+    <lastmod>2022-12-04T20:33:31-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/tags/</loc>
+    <lastmod>2022-12-04T20:33:31-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/categories/tidbits/</loc>
+    <lastmod>2022-12-04T20:33:31-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/diary/2022/12/more-rain/</loc>
     <lastmod>2022-12-03T21:13:02-07:00</lastmod>
   </url><url>
-    <loc>http://nick64.me/</loc>
-    <lastmod>2022-12-03T21:13:02-07:00</lastmod>
-  </url><url>
     <loc>http://nick64.me/categories/posts/</loc>
-    <lastmod>2022-12-03T21:13:02-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/tags/random/</loc>
-    <lastmod>2022-12-03T21:13:02-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/tags/</loc>
     <lastmod>2022-12-03T21:13:02-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/diary/2022/12/rain/</loc>
@@ -33,9 +39,6 @@
     <lastmod>2022-12-02T17:51:52-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/diary/2022/12/hallo/</loc>
-    <lastmod>2022-12-02T17:51:52-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/categories/tidbits/</loc>
     <lastmod>2022-12-02T17:51:52-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/diary/2022/12/ring-pop-programming/</loc>
