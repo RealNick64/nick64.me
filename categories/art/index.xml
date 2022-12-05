@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Nick64</title>
-    <link>http://nick64.me/categories/</link>
-    <description>Recent content in Categories on Nick64</description>
+    <title>art on Nick64</title>
+    <link>http://nick64.me/categories/art/</link>
+    <description>Recent content in art on Nick64</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>nick@nick64.me (Nick64)</managingEditor>
     <webMaster>nick@nick64.me (Nick64)</webMaster>
     <copyright>2022 Nick64 oh wait i dont care</copyright>
-    <lastBuildDate>Sun, 04 Dec 2022 21:39:57 -0700</lastBuildDate><atom:link href="http://nick64.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Dec 2022 21:39:57 -0700</lastBuildDate><atom:link href="http://nick64.me/categories/art/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
