@@ -9,7 +9,17 @@
     <managingEditor>nick@nick64.me (Nick64)</managingEditor>
     <webMaster>nick@nick64.me (Nick64)</webMaster>
     <copyright>2022 Nick64 oh wait i dont care</copyright>
-    <lastBuildDate>Sun, 04 Dec 2022 20:33:31 -0700</lastBuildDate><atom:link href="http://nick64.me/diary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2022 20:07:00 -0700</lastBuildDate><atom:link href="http://nick64.me/diary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo or Jekyll?</title>
+      <link>http://nick64.me/diary/2022/12/hugo-or-jekyll/</link>
+      <pubDate>Mon, 05 Dec 2022 20:07:00 -0700</pubDate>
+      <author>nick@nick64.me (Nick64)</author>
+      <guid>http://nick64.me/diary/2022/12/hugo-or-jekyll/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m debating whether I should go through the effort of learning Jekyll and porting my site to that, or sticking with Hugo. I heard from my good friend realjame that Jekyll (the gen he uses for his blog) is better to him after he tried using Hugo because of the convenience of the tools, but it could just be that he&amp;rsquo;s used to it. I&amp;rsquo;ll think on this a little more. In the meantime, I should worry about more important things like school, since finals are starting now for me&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Not Really Feeling It Today</title>
       <link>http://nick64.me/diary/2022/12/not-really-feeling-it-today/</link>
