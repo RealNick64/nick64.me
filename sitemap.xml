@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://nick64.me/diary/</loc>
+    <lastmod>2022-12-07T20:55:44-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/diary/2022/12/feeling-awesome/</loc>
+    <lastmod>2022-12-07T20:55:44-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/</loc>
+    <lastmod>2022-12-07T20:55:44-07:00</lastmod>
+  </url><url>
     <loc>http://nick64.me/categories/art/</loc>
     <lastmod>2022-12-07T19:56:47-07:00</lastmod>
   </url><url>
@@ -13,12 +22,6 @@
   </url><url>
     <loc>http://nick64.me/art/my-pink-friend/</loc>
     <lastmod>2022-12-07T19:56:47-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/</loc>
-    <lastmod>2022-12-07T19:56:47-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/diary/</loc>
-    <lastmod>2022-12-07T15:57:18-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/diary/2022/12/fuck/</loc>
     <lastmod>2022-12-07T15:57:18-07:00</lastmod>
