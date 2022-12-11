@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://nick64.me/categories/</loc>
+    <lastmod>2022-12-10T18:18:06-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/diary/</loc>
+    <lastmod>2022-12-10T18:18:06-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/diary/2022/12/kindle-rekindling-my-desire-to-read/</loc>
+    <lastmod>2022-12-10T18:18:06-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/</loc>
+    <lastmod>2022-12-10T18:18:06-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/categories/posts/</loc>
+    <lastmod>2022-12-10T18:18:06-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/tags/random/</loc>
+    <lastmod>2022-12-10T18:18:06-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/tags/rants/</loc>
+    <lastmod>2022-12-10T18:18:06-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/tags/</loc>
+    <lastmod>2022-12-10T18:18:06-07:00</lastmod>
+  </url><url>
     <loc>http://nick64.me/art/a-fake-evangelion-adult-swim-ad/</loc>
     <lastmod>2022-12-10T16:01:31-07:00</lastmod>
   </url><url>
@@ -10,21 +34,6 @@
   </url><url>
     <loc>http://nick64.me/art/</loc>
     <lastmod>2022-12-10T16:01:31-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/categories/</loc>
-    <lastmod>2022-12-10T16:01:31-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/</loc>
-    <lastmod>2022-12-10T16:01:31-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/diary/</loc>
-    <lastmod>2022-12-09T14:53:39-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/tags/random/</loc>
-    <lastmod>2022-12-09T14:53:39-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/tags/</loc>
-    <lastmod>2022-12-09T14:53:39-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/categories/tidbits/</loc>
     <lastmod>2022-12-09T14:53:39-07:00</lastmod>
@@ -42,9 +51,6 @@
     <lastmod>2022-12-07T19:56:47-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/diary/2022/12/fuck/</loc>
-    <lastmod>2022-12-07T15:57:18-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/categories/posts/</loc>
     <lastmod>2022-12-07T15:57:18-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/diary/2022/12/hugo-or-jekyll/</loc>
