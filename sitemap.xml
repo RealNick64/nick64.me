@@ -3,18 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://nick64.me/categories/</loc>
-    <lastmod>2022-12-11T21:46:43-07:00</lastmod>
+    <lastmod>2022-12-12T19:21:28-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/diary/</loc>
-    <lastmod>2022-12-11T21:46:43-07:00</lastmod>
+    <lastmod>2022-12-12T19:21:28-07:00</lastmod>
   </url><url>
-    <loc>http://nick64.me/diary/2022/12/my-widdle-pwecious-home-server/</loc>
-    <lastmod>2022-12-11T21:46:43-07:00</lastmod>
+    <loc>http://nick64.me/tags/gaming/</loc>
+    <lastmod>2022-12-12T19:21:28-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/</loc>
-    <lastmod>2022-12-11T21:46:43-07:00</lastmod>
+    <lastmod>2022-12-12T19:21:28-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/categories/posts/</loc>
+    <lastmod>2022-12-12T19:21:28-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/tags/</loc>
+    <lastmod>2022-12-12T19:21:28-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/diary/2022/12/why-the-playstation-2-is-awesome/</loc>
+    <lastmod>2022-12-12T19:21:28-07:00</lastmod>
+  </url><url>
+    <loc>http://nick64.me/diary/2022/12/my-widdle-pwecious-home-server/</loc>
     <lastmod>2022-12-11T21:46:43-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/tags/tech/</loc>
@@ -24,9 +33,6 @@
     <lastmod>2022-12-11T21:46:43-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/diary/2022/12/kindle-rekindling-my-desire-to-read/</loc>
-    <lastmod>2022-12-10T18:18:06-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/categories/posts/</loc>
     <lastmod>2022-12-10T18:18:06-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/tags/random/</loc>
@@ -100,9 +106,6 @@
   </url><url>
     <loc>http://nick64.me/categories/news/</loc>
     <lastmod>2022-11-30T17:22:31-07:00</lastmod>
-  </url><url>
-    <loc>http://nick64.me/tags/gaming/</loc>
-    <lastmod>2022-11-29T23:05:29-07:00</lastmod>
   </url><url>
     <loc>http://nick64.me/tags/hardware/</loc>
     <lastmod>2022-11-29T23:05:29-07:00</lastmod>
