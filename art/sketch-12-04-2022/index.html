@@ -1,138 +1,78 @@
-<html>
-  <style>
-    body {
-      background: #7de47f;
-      background: url(/images/background2.png);
-    }
-
-    .main-container {
-      background: #e47f82;
-    }
-  </style>
-
-  <head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="/styles.css">
-    <title>
-      Nick64
-      </title>
-  </head>
-  
-  <div class="main-container">
-    <style>
-    header {
-        justify-content: space-between;
-        align-items: center; 
-        display: flex;
-        padding: 1em 1.5em;
-    }
-
-    .header-button {
-        font-size: 2.2em;
-        font-family: Arial, Helvetica, sans-serif;
-        font-weight: bold;
-        text-decoration: none;
-        color: #000000;
-    }
-
-    .nav__links {
-        list-style: none;
-    }
-
-    .nav__links li {
-        display: inline-block;
-        padding: 0px 20px;
-    }
-    
-    #profile-picture {
-        border: 0.3em solid #000000;
-        max-width: 6em;
-        height: auto;
-    }
-
-    @media only screen and (max-width: 600px) {
-        header {
-            justify-content: space-between;
-            align-items: center; 
-            display: flex;
-            padding: 0px;
-        }
-
-        #profile-picture {
-            border: 0.3em solid #000000;
-            max-width: 4em;
-            height: auto;
-        }
-
-        .header-button {
-            font-size: 1.5em;
-            font-family: Arial, Helvetica, sans-serif;
-            font-weight: bold;
-            text-decoration: none;
-            color: #000000;
-        }
-
-        .nav__links {
-            list-style: none;
-            text-align: right;
-        }
+<style>
+    .square {
+        height: 1em;
+        width: 1em;
+        background-color: #c3c3c3;
+        border: 0.2em solid grey;
+        float: right;
+        margin-right: 0.3em;
     }
 </style>
 
-<header>
-    <a href="/"><img id="profile-picture" src="/images/profile.png"/></a>
-    <ul class="nav__links">
-        <li>
-            <a href="/art" class="header-button">
-                Art
-                
-            </a>
-            
-        </li>
-        <li>
-            <a href="/diary" class="header-button">
-                
-                Diary
-            </a>
-            
-        </li>
-        <li>
-            <a href="/contacts" class="header-button">
-                
-                Contacts
-            </a>
-        </li>
-    </ul>
-</header>
+<html>
+    <head>
+        <link rel="stylesheet" href="/styles.css">
+        <title>Nick64</title>
+    </head>
     <body>
-      <hr>
-        <div class="inside-container">
-          
+        <div class="border-container">
+            <div id="window-container">
+                <div class="header-container">
+                        <span class="window-title">
+                            <img id="profile-picture" src="/images/profile.png"/>
+                            <span class="window-header"> Sketch (12-04-2022)  -  Nick64 </span>
+                        </span>
+
+                    <span>
+                        <div class="square"></div>  
+                        <div class="square"></div>  
+                        <div class="square"></div>  
+                    </span>
+                </div>
+                
+                <div style="padding-top: 0.3em;">
+                    <div class="button">
+                    <a href="/" class="button-text">
+                        <u>H</u>ome
+                    </a>
+                    </div>
+                    <div class="button">
+                    <a href="/art" class="button-text">
+                        <u>A</u>rt
+                    </a>
+                    </div>
+                    <div class="button">
+                        <a href="/diary" class="button-text">
+                            <u>D</u>iary
+                        </a>
+                    </div>
+                    <div class="button">
+                        <a href="/random" class="button-text">
+                            <u>R</u>andom
+                        </a>
+                    </div>
+                </div>
+                
+                <div id="window">
+                
 
 <body>
   <style>
     p, a, h1, time {
-      font-family: Arial, Helvetica, sans-serif;
       font-size: 1em;
     }
 
     .post-header {
       padding-top: 0em;
-      padding-bottom: 2em;
+      padding-bottom: 1em;
     }
 
     .post-header h1 {
       font-weight: bold;
-      font-size: 2.5em;
+      font-size: 1.5em;    
     }
   </style>
-
-  <div class="post-header">
-      <h1>Sketch (12-04-2022)</h1>
-      <time datetime="2022-12-04T21:39:57-07:00">December 04, 2022</time>
-  </div>
   
-  <hr>
   <p><center>
     
     Made this sketch today, I think there are obviously some faults because I am in no way an expert at art or anything, but I'm honestly just proud of the progress I'm making. Granted, I did use a reference, but no tracing or anything, so I'm happy. I need to keep doing these so I can properly understand human proportions and draw better.
@@ -147,10 +87,9 @@
 </body>
 
 
-        </div>
-      <hr>
-      
-        <style>
+                <hr>
+                
+                    <style>
     #copyright {
         font-family: Arial, Helvetica, sans-serif;
         font-size: 0.8em;
@@ -163,28 +102,21 @@
         font-size: 0.8em;
     }
 </style>
-<center>
-    <a href="/credits">Credits</a>
-</center>
 
 <center>
     <p id="copyright">© 2022 Nick64 oh wait i dont care lol</p>
 </center>
 
 <center>    
-    
     <img src="/images/explorer.GIF">
     <img src="/images/netscape.gif">
-    <div>
-        <img style="width:1em;height:auto;" src="/images/rss.png">
-        <a href="https://nick64.me/index.xml">Here's the RSS feed link for all posts!</a>
-    </div>
 </center>
 
 
-      
+                
+                </div>    
+            </div>
+        </div>
     </body>
-  </div>
-  <br>
 
 </html>

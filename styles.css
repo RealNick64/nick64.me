@@ -1,33 +1,68 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #018281;
 }
 
-.inside-container {
-    padding: 1em 2.5em;
+
+.window-title {
+  display: flex;
+  align-items: center;
 }
 
-.main-container {
-  width: 70%;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 1em 2.5em;
+#window {
+  
+  padding: 1em;
+  margin-top: 1.7em;
+  background: white;
   border: 0.25em solid black;
 }
 
-hr {
-  color: black;
+.header-container {
+  background-color: #010081;
+  padding: 0.3em 0em;
+  display: flex;
+  align-items: center;
+  border: 0.25em solid black;
+  justify-content: space-between;
 }
 
-@media only screen and (max-width: 600px) {
-  .inside-container {
-      padding: 0.8em 0.2em;
-  }
-
-  .main-container {
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 1em 1.5em;
-    border: 0.3em solid black;
-  }
+.border-container {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 60em;
+  background-color: #c3c3c3;
+  border: 0.25em solid black;
+  box-shadow: 0.8em 0.8em black;
 }
+
+.button {
+  float: left;
+  position: static;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+#window-container {
+  border: 0.4em solid #c3c3c3;
+}
+
+.window-header {
+  font-weight: bold;
+  color: white;
+  font-size: 1em;
+  padding-left: 0.5em;
+}
+
+.button-text {
+  font-size: 1em;
+  text-decoration: none;
+  color: #000000;
+}
+
+
+#profile-picture {
+  padding-left: 0.3em;
+  max-width: 1em;
+  height: auto;
+}
+
