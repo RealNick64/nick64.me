@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nick64.me/categories/</loc>
-    <lastmod>2022-12-22T14:49:48-07:00</lastmod>
+    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/diary/</loc>
-    <lastmod>2022-12-22T14:49:48-07:00</lastmod>
+    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/tags/gaming/</loc>
+    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/</loc>
-    <lastmod>2022-12-22T14:49:48-07:00</lastmod>
+    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/tags/random/</loc>
+    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/tags/</loc>
+    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/categories/tidbits/</loc>
+    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/diary/2022/12/trying-out-fighting-games/</loc>
+    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/tags/informative/</loc>
     <lastmod>2022-12-22T14:49:48-07:00</lastmod>
@@ -23,16 +38,7 @@
     <loc>https://nick64.me/diary/2022/12/should-you-make-a-website/</loc>
     <lastmod>2022-12-22T14:49:48-07:00</lastmod>
   </url><url>
-    <loc>https://nick64.me/tags/</loc>
-    <lastmod>2022-12-22T14:49:48-07:00</lastmod>
-  </url><url>
     <loc>https://nick64.me/diary/2022/12/make-a-homelab/</loc>
-    <lastmod>2022-12-22T11:35:59-07:00</lastmod>
-  </url><url>
-    <loc>https://nick64.me/tags/random/</loc>
-    <lastmod>2022-12-22T11:35:59-07:00</lastmod>
-  </url><url>
-    <loc>https://nick64.me/categories/tidbits/</loc>
     <lastmod>2022-12-22T11:35:59-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/tags/news/</loc>
@@ -40,9 +46,6 @@
   </url><url>
     <loc>https://nick64.me/diary/2022/12/website-overhaul/</loc>
     <lastmod>2022-12-22T00:29:14-07:00</lastmod>
-  </url><url>
-    <loc>https://nick64.me/tags/gaming/</loc>
-    <lastmod>2022-12-19T11:27:56-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/diary/2022/12/playstation-stuff-and-website-stuff-too-i-guess/</loc>
     <lastmod>2022-12-19T11:27:56-07:00</lastmod>
