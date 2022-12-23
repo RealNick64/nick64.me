@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tech on Nick64</title>
-    <link>http://nick64.me/tags/tech/</link>
+    <link>https://nick64.me/tags/tech/</link>
     <description>Recent content in tech on Nick64</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>nick@nick64.me (Nick64)</managingEditor>
     <webMaster>nick@nick64.me (Nick64)</webMaster>
     <copyright>2022 Nick64 oh wait i dont care</copyright>
-    <lastBuildDate>Sun, 11 Dec 2022 21:46:43 -0700</lastBuildDate><atom:link href="http://nick64.me/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Dec 2022 21:46:43 -0700</lastBuildDate><atom:link href="https://nick64.me/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Widdle Pwecious Home Server</title>
-      <link>http://nick64.me/diary/2022/12/my-widdle-pwecious-home-server/</link>
+      <link>https://nick64.me/diary/2022/12/my-widdle-pwecious-home-server/</link>
       <pubDate>Sun, 11 Dec 2022 21:46:43 -0700</pubDate>
       <author>nick@nick64.me (Nick64)</author>
-      <guid>http://nick64.me/diary/2022/12/my-widdle-pwecious-home-server/</guid>
+      <guid>https://nick64.me/diary/2022/12/my-widdle-pwecious-home-server/</guid>
       <description>&lt;p&gt;Today I undervolted the CPU on my home server, so now I can save a little bit more moneyz on power!&lt;/p&gt;
 
 
@@ -30,10 +30,10 @@
     
     <item>
       <title>Kindle: Rekindling My Desire to Read</title>
-      <link>http://nick64.me/diary/2022/12/kindle-rekindling-my-desire-to-read/</link>
+      <link>https://nick64.me/diary/2022/12/kindle-rekindling-my-desire-to-read/</link>
       <pubDate>Sat, 10 Dec 2022 18:18:06 -0700</pubDate>
       <author>nick@nick64.me (Nick64)</author>
-      <guid>http://nick64.me/diary/2022/12/kindle-rekindling-my-desire-to-read/</guid>
+      <guid>https://nick64.me/diary/2022/12/kindle-rekindling-my-desire-to-read/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m pretty sure somebody already used that pun but still.&lt;/p&gt;
 &lt;p&gt;About a couple of days before posting for the first time on this blog, during Black Friday Week, I finally gave into Kindle shilling after wanting to do something about not reading and bought a Kindle Paperwhite 2021 model off of Amazon for 100 dollarinos.&lt;/p&gt;
 &lt;p&gt;For a bit, I didn&amp;rsquo;t use it at all.&lt;/p&gt;

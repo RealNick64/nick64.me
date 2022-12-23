@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>art on Nick64</title>
-    <link>http://nick64.me/categories/art/</link>
+    <link>https://nick64.me/categories/art/</link>
     <description>Recent content in art on Nick64</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>nick@nick64.me (Nick64)</managingEditor>
     <webMaster>nick@nick64.me (Nick64)</webMaster>
     <copyright>2022 Nick64 oh wait i dont care</copyright>
-    <lastBuildDate>Sat, 10 Dec 2022 16:01:31 -0700</lastBuildDate><atom:link href="http://nick64.me/categories/art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Dec 2022 16:01:31 -0700</lastBuildDate><atom:link href="https://nick64.me/categories/art/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
