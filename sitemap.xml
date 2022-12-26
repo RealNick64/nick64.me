@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nick64.me/categories/</loc>
+    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
+  </url><url>
     <loc>https://nick64.me/diary/</loc>
-    <lastmod>2022-12-25T20:20:25-07:00</lastmod>
+    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/</loc>
-    <lastmod>2022-12-25T20:20:25-07:00</lastmod>
+    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/tags/news/</loc>
+    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/categories/posts/</loc>
+    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/tags/random/</loc>
+    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/tags/</loc>
+    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/diary/2022/12/wow-ok-i-made-this-site-much-nicer-overnight/</loc>
+    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/diary/2022/12/saint-nick64-says-merry-christmas/</loc>
     <lastmod>2022-12-25T20:20:25-07:00</lastmod>
   </url><url>
-    <loc>https://nick64.me/categories/</loc>
-    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
+    <loc>https://nick64.me/categories/tidbits/</loc>
+    <lastmod>2022-12-25T20:20:25-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/tags/gaming/</loc>
-    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
-  </url><url>
-    <loc>https://nick64.me/tags/random/</loc>
-    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
-  </url><url>
-    <loc>https://nick64.me/tags/</loc>
-    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
-  </url><url>
-    <loc>https://nick64.me/categories/tidbits/</loc>
     <lastmod>2022-12-23T16:05:43-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/diary/2022/12/trying-out-fighting-games/</loc>
     <lastmod>2022-12-23T16:05:43-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/tags/informative/</loc>
-    <lastmod>2022-12-22T14:49:48-07:00</lastmod>
-  </url><url>
-    <loc>https://nick64.me/categories/posts/</loc>
     <lastmod>2022-12-22T14:49:48-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/tags/rants/</loc>
@@ -43,9 +49,6 @@
   </url><url>
     <loc>https://nick64.me/diary/2022/12/make-a-homelab/</loc>
     <lastmod>2022-12-22T11:35:59-07:00</lastmod>
-  </url><url>
-    <loc>https://nick64.me/tags/news/</loc>
-    <lastmod>2022-12-22T00:29:14-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/diary/2022/12/website-overhaul/</loc>
     <lastmod>2022-12-22T00:29:14-07:00</lastmod>

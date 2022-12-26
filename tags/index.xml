@@ -9,22 +9,31 @@
     <managingEditor>nick@nick64.me (Nick64)</managingEditor>
     <webMaster>nick@nick64.me (Nick64)</webMaster>
     <copyright>2022 Nick64 oh wait i dont care</copyright>
-    <lastBuildDate>Fri, 23 Dec 2022 16:05:43 -0700</lastBuildDate><atom:link href="https://nick64.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 00:19:17 -0700</lastBuildDate><atom:link href="https://nick64.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>gaming</title>
-      <link>https://nick64.me/tags/gaming/</link>
-      <pubDate>Fri, 23 Dec 2022 16:05:43 -0700</pubDate>
+      <title>news</title>
+      <link>https://nick64.me/tags/news/</link>
+      <pubDate>Mon, 26 Dec 2022 00:19:17 -0700</pubDate>
       <author>nick@nick64.me (Nick64)</author>
-      <guid>https://nick64.me/tags/gaming/</guid>
+      <guid>https://nick64.me/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>random</title>
       <link>https://nick64.me/tags/random/</link>
-      <pubDate>Fri, 23 Dec 2022 16:05:43 -0700</pubDate>
+      <pubDate>Mon, 26 Dec 2022 00:19:17 -0700</pubDate>
       <author>nick@nick64.me (Nick64)</author>
       <guid>https://nick64.me/tags/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaming</title>
+      <link>https://nick64.me/tags/gaming/</link>
+      <pubDate>Fri, 23 Dec 2022 16:05:43 -0700</pubDate>
+      <author>nick@nick64.me (Nick64)</author>
+      <guid>https://nick64.me/tags/gaming/</guid>
       <description></description>
     </item>
     
@@ -43,15 +52,6 @@
       <pubDate>Thu, 22 Dec 2022 14:49:48 -0700</pubDate>
       <author>nick@nick64.me (Nick64)</author>
       <guid>https://nick64.me/tags/rants/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news</title>
-      <link>https://nick64.me/tags/news/</link>
-      <pubDate>Thu, 22 Dec 2022 00:29:14 -0700</pubDate>
-      <author>nick@nick64.me (Nick64)</author>
-      <guid>https://nick64.me/tags/news/</guid>
       <description></description>
     </item>
     

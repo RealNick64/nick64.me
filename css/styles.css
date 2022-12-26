@@ -55,6 +55,15 @@ h1 {
   position: static;
   padding-left: 0.5em;
   padding-right: 0.5em;
+  font-weight: bold;
+  text-decoration: none;
+  color: #000000;
+}
+
+.button:hover {
+  border-radius: 0.5em;
+  background-color: black;
+  color: #f5ae08;
 }
 
 #profile-picture {
@@ -80,13 +89,6 @@ h1 {
   margin-right: 0.4em;
 }
 
-.button-text {
-  font-size: 1em;
-  font-weight: bold;
-  text-decoration: none;
-  color: #000000;
-}
-
 #window {
   border-radius: 0.5em;
   padding: 1em;
@@ -101,5 +103,21 @@ h1 {
   font-weight: bold;
 }
 
+#latest-posts li {
+  list-style: none;
+  margin-bottom: 0.8em;
+}
 
 
+#latest-posts a {
+  color: black;
+  margin: 1em;
+}
+
+#latest-posts a:hover {
+  border-radius: 0.5em;
+  background-color: black;
+  color: #f5ae08;
+  padding: 0.4em;
+  margin-left: 2em;
+}
