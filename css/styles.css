@@ -1,0 +1,105 @@
+@font-face {
+  font-family: "Neuropol";
+  src: url('/fonts/neuropol.woff');
+}
+
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #f5ae08;
+  background-image: url("/images/sd.png");
+}
+
+h1 {
+  font-family: Impact;
+}
+
+
+#window-title {
+  display: flex;
+  align-items: center;
+}
+
+#border-container {
+  border-radius: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 60em;
+  background-color: #f5ae08;
+  border: 0.25em solid black;
+  box-shadow: 0.8em 0.8em black;
+}
+
+#header-container {
+  border-radius: 0.5em;
+  background-color: #000000;
+  padding: 0.3em 0em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#window-container {
+  border-radius: 0.5em;
+  border: 0.5em solid #f5ae08;
+}
+
+.below-header-line {
+  border-radius: 0.5em;
+  background-color: black;
+  margin-top: 0.25em;
+  padding: 0.15em;
+}
+
+.button {
+  float: left;
+  position: static;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+#profile-picture {
+  padding-left: 0.6em;
+  max-width: 1em;
+  height: auto;
+}
+
+#window-header {
+  font-family: "Neuropol";
+  font-weight: bold;
+  color: #f5ae08;
+  font-size: 0.8em;
+  padding-left: 0.5em;
+}
+
+.square {
+  border-radius: 0.4em;
+  height: 1em;
+  width: 1em;
+  background-color: #f5ae08;
+  float: right;
+  margin-right: 0.4em;
+}
+
+.button-text {
+  font-size: 1em;
+  font-weight: bold;
+  text-decoration: none;
+  color: #000000;
+}
+
+#window {
+  border-radius: 0.5em;
+  padding: 1em;
+  margin-top: 0.4em;
+  background: #f5ae08;
+}
+
+#copyright {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 0.8em;
+  padding: 0em 2.5em;
+  font-weight: bold;
+}
+
+
+
