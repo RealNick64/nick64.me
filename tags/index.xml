@@ -9,7 +9,43 @@
     <managingEditor>nick@nick64.me (Nick64)</managingEditor>
     <webMaster>nick@nick64.me (Nick64)</webMaster>
     <copyright>2022 Nick64 oh wait i dont care</copyright>
-    <lastBuildDate>Mon, 26 Dec 2022 00:19:17 -0700</lastBuildDate><atom:link href="https://nick64.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 09:45:01 -0700</lastBuildDate><atom:link href="https://nick64.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>anime</title>
+      <link>https://nick64.me/tags/anime/</link>
+      <pubDate>Fri, 30 Dec 2022 09:45:01 -0700</pubDate>
+      <author>nick@nick64.me (Nick64)</author>
+      <guid>https://nick64.me/tags/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaming</title>
+      <link>https://nick64.me/tags/gaming/</link>
+      <pubDate>Fri, 30 Dec 2022 09:39:04 -0700</pubDate>
+      <author>nick@nick64.me (Nick64)</author>
+      <guid>https://nick64.me/tags/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rant</title>
+      <link>https://nick64.me/tags/rant/</link>
+      <pubDate>Fri, 30 Dec 2022 09:39:04 -0700</pubDate>
+      <author>nick@nick64.me (Nick64)</author>
+      <guid>https://nick64.me/tags/rant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://nick64.me/tags/tech/</link>
+      <pubDate>Fri, 30 Dec 2022 09:39:04 -0700</pubDate>
+      <author>nick@nick64.me (Nick64)</author>
+      <guid>https://nick64.me/tags/tech/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>news</title>
       <link>https://nick64.me/tags/news/</link>
@@ -29,15 +65,6 @@
     </item>
     
     <item>
-      <title>gaming</title>
-      <link>https://nick64.me/tags/gaming/</link>
-      <pubDate>Fri, 23 Dec 2022 16:05:43 -0700</pubDate>
-      <author>nick@nick64.me (Nick64)</author>
-      <guid>https://nick64.me/tags/gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>informative</title>
       <link>https://nick64.me/tags/informative/</link>
       <pubDate>Thu, 22 Dec 2022 14:49:48 -0700</pubDate>
@@ -52,33 +79,6 @@
       <pubDate>Thu, 22 Dec 2022 14:49:48 -0700</pubDate>
       <author>nick@nick64.me (Nick64)</author>
       <guid>https://nick64.me/tags/rants/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rant</title>
-      <link>https://nick64.me/tags/rant/</link>
-      <pubDate>Mon, 12 Dec 2022 22:15:57 -0700</pubDate>
-      <author>nick@nick64.me (Nick64)</author>
-      <guid>https://nick64.me/tags/rant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://nick64.me/tags/tech/</link>
-      <pubDate>Sun, 11 Dec 2022 21:46:43 -0700</pubDate>
-      <author>nick@nick64.me (Nick64)</author>
-      <guid>https://nick64.me/tags/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>anime</title>
-      <link>https://nick64.me/tags/anime/</link>
-      <pubDate>Fri, 02 Dec 2022 17:51:52 -0700</pubDate>
-      <author>nick@nick64.me (Nick64)</author>
-      <guid>https://nick64.me/tags/anime/</guid>
       <description></description>
     </item>
     

@@ -2,25 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nick64.me/tags/anime/</loc>
+    <lastmod>2022-12-30T09:45:01-07:00</lastmod>
+  </url><url>
     <loc>https://nick64.me/categories/</loc>
-    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
+    <lastmod>2022-12-30T09:45:01-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/diary/</loc>
-    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
+    <lastmod>2022-12-30T09:45:01-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/diary/2022/12/gurren-lagann/</loc>
+    <lastmod>2022-12-30T09:45:01-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/</loc>
-    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
+    <lastmod>2022-12-30T09:45:01-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/categories/posts/</loc>
+    <lastmod>2022-12-30T09:45:01-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/tags/</loc>
+    <lastmod>2022-12-30T09:45:01-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/tags/gaming/</loc>
+    <lastmod>2022-12-30T09:39:04-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/tags/rant/</loc>
+    <lastmod>2022-12-30T09:39:04-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/diary/2022/12/stinky-stinky-vr/</loc>
+    <lastmod>2022-12-30T09:39:04-07:00</lastmod>
+  </url><url>
+    <loc>https://nick64.me/tags/tech/</loc>
+    <lastmod>2022-12-30T09:39:04-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/tags/news/</loc>
     <lastmod>2022-12-26T00:19:17-07:00</lastmod>
   </url><url>
-    <loc>https://nick64.me/categories/posts/</loc>
-    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
-  </url><url>
     <loc>https://nick64.me/tags/random/</loc>
-    <lastmod>2022-12-26T00:19:17-07:00</lastmod>
-  </url><url>
-    <loc>https://nick64.me/tags/</loc>
     <lastmod>2022-12-26T00:19:17-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/diary/2022/12/wow-ok-i-made-this-site-much-nicer-overnight/</loc>
@@ -31,9 +49,6 @@
   </url><url>
     <loc>https://nick64.me/categories/tidbits/</loc>
     <lastmod>2022-12-25T20:20:25-07:00</lastmod>
-  </url><url>
-    <loc>https://nick64.me/tags/gaming/</loc>
-    <lastmod>2022-12-23T16:05:43-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/diary/2022/12/trying-out-fighting-games/</loc>
     <lastmod>2022-12-23T16:05:43-07:00</lastmod>
@@ -59,9 +74,6 @@
     <loc>https://nick64.me/diary/2022/12/walking-and-catching-up/</loc>
     <lastmod>2022-12-16T11:48:03-07:00</lastmod>
   </url><url>
-    <loc>https://nick64.me/tags/rant/</loc>
-    <lastmod>2022-12-12T22:15:57-07:00</lastmod>
-  </url><url>
     <loc>https://nick64.me/diary/2022/12/true-selves/</loc>
     <lastmod>2022-12-12T22:15:57-07:00</lastmod>
   </url><url>
@@ -69,9 +81,6 @@
     <lastmod>2022-12-12T19:21:28-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/diary/2022/12/my-widdle-pwecious-home-server/</loc>
-    <lastmod>2022-12-11T21:46:43-07:00</lastmod>
-  </url><url>
-    <loc>https://nick64.me/tags/tech/</loc>
     <lastmod>2022-12-11T21:46:43-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/diary/2022/12/kindle-rekindling-my-desire-to-read/</loc>
@@ -115,9 +124,6 @@
   </url><url>
     <loc>https://nick64.me/diary/2022/12/rain/</loc>
     <lastmod>2022-12-03T12:34:30-07:00</lastmod>
-  </url><url>
-    <loc>https://nick64.me/tags/anime/</loc>
-    <lastmod>2022-12-02T17:51:52-07:00</lastmod>
   </url><url>
     <loc>https://nick64.me/diary/2022/12/hallo/</loc>
     <lastmod>2022-12-02T17:51:52-07:00</lastmod>
